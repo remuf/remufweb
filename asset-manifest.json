@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/remufweb/static/css/main.39375457.css",
+    "main.js": "/remufweb/static/js/main.da873a71.js",
+    "static/media/One.JPG": "/remufweb/static/media/One.8d7ca30b9acdb9f2f00d.JPG",
+    "static/media/Two.JPG": "/remufweb/static/media/Two.4eb1d509bd3b765377e4.JPG",
+    "static/media/Education_1.JPG": "/remufweb/static/media/Education_1.10391f1cec3052df4130.JPG",
+    "static/media/about-2.JPG": "/remufweb/static/media/about-2.e9ad19c5d89d64bea7a5.JPG",
+    "static/media/about-1.JPG": "/remufweb/static/media/about-1.e808a57a28b308ca637f.JPG",
+    "static/media/demo.png": "/remufweb/static/media/demo.81984bc5dca8204836c8.png",
+    "static/media/health_1.jpg": "/remufweb/static/media/health_1.c6018e072a08bc4d0b34.jpg",
+    "static/media/childR_1.jpg": "/remufweb/static/media/childR_1.84153fd1c4f2b1c58798.jpg",
+    "static/media/sdk.jpeg": "/remufweb/static/media/sdk.150eaf49013cbf18f348.jpeg",
+    "static/media/childR.jpg": "/remufweb/static/media/childR.684537426be20cd6c6ff.jpg",
+    "static/media/logo.png": "/remufweb/static/media/logo.d57164b340d2867885db.png",
+    "static/media/khalti.jpeg": "/remufweb/static/media/khalti.b799404b50a91c0b9632.jpeg",
+    "static/media/food_thumb.jpeg": "/remufweb/static/media/food_thumb.5f4b66cfd633082b5231.jpeg",
+    "static/media/slick.svg": "/remufweb/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/remufweb/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/remufweb/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/remufweb/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/remufweb/index.html",
+    "main.39375457.css.map": "/remufweb/static/css/main.39375457.css.map",
+    "main.da873a71.js.map": "/remufweb/static/js/main.da873a71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39375457.css",
+    "static/js/main.da873a71.js"
+  ]
+}
