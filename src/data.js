@@ -1,5 +1,4 @@
- const data = [
-   {
+ const data = [{
      url: "https://www.youtube.com/embed/K-evbtX9ooE",
    },
    {
@@ -13,4 +12,4 @@
    },
  ];
 
-export default data;
+ export default data;
